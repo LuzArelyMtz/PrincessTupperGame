@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 51736cc277311fc47878746c49c198ca
+timeCreated: 1567900574
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rancho
+  fontNames:
+  - Rancho
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
